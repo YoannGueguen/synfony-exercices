@@ -1,0 +1,6 @@
+{
+    "require": {
+        "Monolog/monolog": "^1.23",
+        "liip/imagine-bundle": "^1.9"
+    }
+}

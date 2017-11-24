@@ -1,0 +1,6 @@
+GET:
+Récuperer des informations de la requête.
+
+Status Code : 304 : Redirection vers le localhost
+
+Connection keep-alive: Viens du TCP et permet d'envoyer plusieurs requêtes et réponses HTTP
