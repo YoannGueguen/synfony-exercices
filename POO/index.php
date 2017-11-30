@@ -8,8 +8,8 @@
         <br />
         <?php
         require('triangle.php');
-        $tr1 = new triangle(7,9,10);
-        $tr1->triangleType(9,9,10);
+        $tr1 = new triangle(3,3,18);
+        $tr1->triangleType(3,3,18);
         ?>
 	</body>
 </html>
